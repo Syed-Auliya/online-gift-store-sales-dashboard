@@ -1,5 +1,5 @@
 # online-gift-store-sales-dashboard
-
+online-gift-store-sales-dashboard
 # Problem Statement
 You have been provided with sales data from an Online Gift Store. The dataset contains information about orders, customers, products, sales transactions, quantities purchased, delivery dates, and customer locations.
 The objective of this project is to analyze the sales performance of the business using Microsoft Excel, Power Query, Power Pivot, and DAX. The analysis aims to uncover valuable insights related to revenue generation, customer purchasing behavior, product performance, and operational efficiency.
