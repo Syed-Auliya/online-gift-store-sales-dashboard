@@ -17,5 +17,15 @@ Product performance analysis identified Quia Gift, Magnam Set, Dolores Gift, Har
 Geographical analysis identified cities such as Imphal, Dhanbad, Kavali, Haridwar, and Bidhannagar among the locations generating the highest order volumes. These findings can support targeted marketing and customer engagement strategies.
 
 A correlation analysis between order quantity and delivery time produced a value close to zero (0.0035), indicating that larger order quantities do not significantly impact delivery performance. This suggests that the company's logistics operations maintain delivery efficiency regardless of order size.
-
 To present the findings effectively, an interactive dashboard was developed using Pivot Tables, Pivot Charts, Timelines, and Slicers. The dashboard enables users to dynamically analyze sales performance by category, occasion, month, product, city, and order time, supporting data-driven business decisions and performance monitoring.
+
+# OverAll Analysis
+Revenue: ₹35,20,984
+Orders: 1000
+AOV: ₹3,520.98
+Avg Delivery Time: 5.53 days
+Colors as top category
+August as top month
+Anniversary as top occasion
+Top 5 products from your pivot table
+Correlation ≈ 0.0035
