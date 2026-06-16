@@ -1,7 +1,14 @@
-# Executive Summary
+## Project Overview
 
 The Online Gift Store Sales Analysis project was developed to analyze sales performance, customer purchasing behavior, product popularity, and delivery efficiency using Microsoft Excel, Power Query, Power Pivot, and DAX.
 
+## Tools Used
+- Microsoft Excel
+- Power Query
+- Power Pivot
+- DAX
+
+# Executive Summary
 A structured analytics workflow was followed, beginning with data extraction and transformation in Power Query. Data quality checks, data type corrections, month extraction, delivery time calculations, and table merging were performed to prepare the dataset for analysis. A star schema data model was created in Power Pivot by establishing relationships between Orders, Customers, and Products tables, enabling efficient reporting and KPI calculations.
 
 The analysis revealed that the business generated total revenue of ₹35,20,984 from 1,000 customer orders, with an average order value of ₹3,520.98 and an average delivery time of 5.53 days.
