@@ -34,7 +34,7 @@ Products
 This model enabled efficient KPI calculations and reporting using DAX.
 
 ## Key Business Insights
-****Category Performance
+Category Performance
 Colors generated the highest revenue, contributing over ₹10 Lakhs in sales.
 Soft Toys and Sweets also performed strongly.
 Mugs generated comparatively lower revenue.
@@ -87,6 +87,7 @@ City-wise Analysis
 Delivery Metrics
 
 ## Interactive elements include:
+
 Pivot Tables
 Pivot Charts
 Timelines
