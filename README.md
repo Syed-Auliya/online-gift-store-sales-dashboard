@@ -37,29 +37,21 @@ This model enabled efficient KPI calculations and reporting using DAX.
 Category Performance
 
 Colors generated the highest revenue, contributing over ₹10 Lakhs in sales.
-
 Soft Toys and Sweets also performed strongly.
 
 Mugs generated comparatively lower revenue.
 
-Monthly Sales Trends
-
+Monthly Sales Trends:
 August was the highest-performing month, generating over ₹7.37 Lakhs in revenue.
-
 February and March also showed strong sales performance.
-
 Seasonal demand patterns were clearly visible throughout the year.
 
-Occasion Analysis
-
+Occasion Analysis:
 Anniversary generated the highest revenue.
-
 Raksha Bandhan and Holi were the next best-performing occasions.
-
 Special occasions significantly influenced customer purchasing behavior.
 
-Product Performance
-
+Product Performance:
 Top revenue-generating products:
 Quia Gift
 Magnam Set
