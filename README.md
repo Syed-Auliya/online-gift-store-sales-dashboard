@@ -71,13 +71,10 @@ Haridwar
 Bidhannagar
 
 These locations present opportunities for targeted marketing and customer engagement.
-
 Delivery Efficiency Analysis
 
 A correlation analysis between order quantity and delivery time produced a value of:
-
 0.0035
-
 This indicates virtually no relationship between order size and delivery performance, suggesting that logistics operations remained efficient regardless of order volume.
 
 ## Dashboard Features
